@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Jhonny-joestar
+- 👀 I’m interested in making beautiful sites
+- 🌱 I’m currently learning JavaScript and MySQL
+- 📫 How to reach me : ayzmmeli146@gmail.com
+- 😄 Pronouns: he/him
